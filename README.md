@@ -1,2 +1,2 @@
 # Curriculum_Vitae
-Resume
+<img src="https://github.com/Aldarius/Curriculum_Vitae/blob/master/ShakurovVE_Resume.jpg?raw=false">
